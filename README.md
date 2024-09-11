@@ -25,4 +25,4 @@ Antes de começar, certifique-se de ter o seguinte instalado:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+https://github.com/D4N23/Estudos-com-apps-Java-EE-1---Java-Struts-2.git
